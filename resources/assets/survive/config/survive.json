@@ -1,0 +1,36 @@
+{
+  "EnableHydration": true,
+  "EnableFatigue": true,
+  "EnableInjuries": true,
+  "EnableMentalHealth": true,
+  "EnableAlcohol": true,
+  "EnablePerception": true,
+
+  "HydrationMax": 1500.0,
+  "HydrationDecayPerSec": 0.15,
+  "DehydratedSatietyDecayMultiplier": 1.3,
+  "HydratedSatietyDecayMultiplier": 0.7,
+  "DehydrationThreshold": 0.25,
+  "WellHydratedThreshold": 0.75,
+
+  "FatigueGainPerSec": 0.07,
+  "FatiguePhaseThresholds": [50.0, 75.0, 90.0],
+  "FatigueRecoveryPerSec": 0.5,
+  "DaytimeSleepPenalty": 0.5,
+
+  "MinorWoundHealTimeSec": 600.0,
+  "InfectionChancePerTick": 0.002,
+
+  "MentalMax": 100.0,
+  "MentalDecayPerSec": 0.01,
+  "MentalLevelThresholds": [80.0, 60.0, 40.0, 20.0, 5.0],
+
+  "AlcoholPerDrink": 15.0,
+  "AlcoholDecayPerSec": 0.02,
+  "AlcoholTolerantThreshold": 50.0,
+  "AlcoholDependentThreshold": 80.0,
+  "AlcoholMentalBoostNaive": 8.0,
+  "AlcoholMentalPenaltyDependent": 5.0,
+
+  "PerceptionMinMentalLevel": 2
+}

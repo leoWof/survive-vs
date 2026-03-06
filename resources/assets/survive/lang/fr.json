@@ -1,0 +1,22 @@
+{
+  "survive:hud-hydration": "Hydratation",
+  "survive:hud-fatigue": "Fatigue",
+  "survive:hud-mental": "Santé mentale",
+  "survive:hud-injuries": "Intégrité physique",
+  "survive:hud-satiety": "Satiété",
+
+  "survive:fatigue-phase1": "Vous vous sentez fatigué.",
+  "survive:fatigue-phase2": "L'épuisement vous gagne.",
+  "survive:fatigue-phase3": "Vous tenez à peine debout.",
+
+  "survive:mental-level1": "Un vague sentiment de malaise.",
+  "survive:mental-level2": "L'anxiété vous saisit.",
+  "survive:mental-level3": "Le monde semble distant.",
+  "survive:mental-level4": "La réalité se fracture autour de vous.",
+  "survive:mental-level5": "...",
+
+  "survive:injury-minor": "Blessure légère",
+  "survive:injury-open": "Plaie ouverte — nécessite un bandage",
+  "survive:injury-infected": "Blessure infectée — nécessite des plantes médicinales",
+  "survive:injury-severe": "Blessure grave — nécessite des soins avancés"
+}
